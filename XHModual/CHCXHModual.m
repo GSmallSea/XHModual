@@ -10,4 +10,8 @@
 
 @implementation CHCXHModual
 
+- (int)count{
+    return 22;
+}
+
 @end
