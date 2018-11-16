@@ -14,4 +14,7 @@
     return 22;
 }
 
+- (int)count2{
+    return 223;
+}
 @end

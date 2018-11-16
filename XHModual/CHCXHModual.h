@@ -10,6 +10,6 @@
 
 @interface CHCXHModual : NSObject
 
-- (int)count ;
-
+- (int)count;
+- (int)count2;
 @end
